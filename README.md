@@ -73,6 +73,8 @@ Project Link: [https://github.com/github_username/github_repo](https://github.co
 
 ## 😊 Acknowledgements
 
+This readme version is inspired by NicolasBrondin
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jpcouhe/readme-template-.svg?style=flat-square
