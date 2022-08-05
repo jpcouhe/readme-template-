@@ -6,9 +6,13 @@ Rapid description | Keywords
 
 ## Features
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="example.jpg" alt="drawing" height="250" width='100%'/>
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 Here is where you describe the project 
+
+[![Everything Is AWESOME](https://www.meilleure-innovation.com/logo-youtube/)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 
 ## 🔨 Technologies 
 
@@ -83,4 +87,4 @@ Project Link: [https://github.com/github_username/github_repo](https://github.co
 [license-url]: https://github.com/jpcouhe/readme-template-/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: docs/cover.jpg
+[product-screenshot]: example.jpg
