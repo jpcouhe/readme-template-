@@ -11,8 +11,6 @@ Rapid description | Keywords
 
 Here is where you describe the project 
 
-[![Everything Is AWESOME](https://www.meilleure-innovation.com/logo-youtube/)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
 
 ## 🔨 Technologies 
 
@@ -69,6 +67,8 @@ environment variable
 
 COUHE Jean-philippe - [@linkedin](www.linkedin.com/in/jean-philippe-couhe) - pro@jean-philippecouhe.fr
 
+
+<a href='www.google.com'><img src='youtube.png' height="50" width='auto'></br>
 Project Link: [https://github.com/github_username/github_repo](https://github.com/github_username/github_repo)
 
 ## 😊 Acknowledgements
@@ -88,3 +88,4 @@ Project Link: [https://github.com/github_username/github_repo](https://github.co
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: example.jpg
+[youtube-screenshot]: youtube.png
